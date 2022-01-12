@@ -1,6 +1,4 @@
-layout: page
-title: "CONTACT"
-permalink: /https://octocat.github.io/contact/
+
 
 ## Contact us
 
