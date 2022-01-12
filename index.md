@@ -8,15 +8,18 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
+```markdown this is a code snippet
 Syntax highlighted code block
 
-# Header 1
-## Header 2
+# This is the larges titel
+## this is the second larges title
 ### Header 3
 
-- Bulleted
-- List
+**Here I can create a list and this text will be Bold**
+- List item 1
+- List item 2
+- List item 3
+
 
 1. Numbered
 2. List
@@ -27,6 +30,8 @@ Syntax highlighted code block
 ```
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+
+## This is a Subtitle size
 
 ### Jekyll Themes
 
