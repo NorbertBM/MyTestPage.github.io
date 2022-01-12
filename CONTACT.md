@@ -1,3 +1,7 @@
+layout: page
+title: "CONTACT"
+permalink: /https://octocat.github.io/contact/
+
 ## Contact us
 
 - Phone: +2556464-554
